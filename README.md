@@ -17,4 +17,5 @@ We can have a data pipeline where we have three endpoint:
  
 ### Architecture Diagram
 
-![Arch Diagram]()
+![Arch Diagram](https://github.com/mohamedzuhairka/EMIS_Assessment/blob/main/arch_diagram.jpg)
+
